@@ -1,2 +1,2 @@
 # PitchClass
-This group of data is part of an article, looking into a pitch's classification in 2021
+This group of data is part of an article, looking into a pitch's classification in 2021. In it, I developed two machine learning models and given the available inputs ( velocity, spin rate, h.break, v.break, and spin efficiency), I checked the pitch's classifications were accurate or non-accurate. Over 90% of all pitches were accurately classified, according to both my log regression model and my Naive Bayes model 
